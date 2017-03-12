@@ -1,3 +1,4 @@
 # Testat 2.G
 
-- Dokument zur Abgabe: 2g/swissgrooves-anforderungen.docx
+- Dokument zur Bearbeitung: 2g/swissgrooves-anforderungen.odt
+- Dokument zur Abgabe: 2g/swissgrooves-anforderungen.pdf
