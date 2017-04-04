@@ -5,4 +5,5 @@
 
 # Testat 2.Q
 
-TODO
+- Dokument zur Bearbeitung: 2q/product-backlog.ods
+- Dokument zur Abgabe: 2q/product-backlog.pdf
